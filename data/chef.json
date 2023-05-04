@@ -2,19 +2,19 @@
     {
       "id": 1,
       "chefPicture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1682974940~exp=1682975540~hmac=7b16e83aa45894fce9f3aff94d0e1fab56c31e7ed767037607196b2433316872",
-      "chefName": "John Smith",
+      "chefName": "Nusr-Et",
       "yearsOfExperience": 10,
       "numberOfRecipes": 50,
-      "likes": 1000,
-      "chefBio": "John Smith is a renowned chef with over 10 years of experience in the culinary arts. He has worked in some of the best restaurants around the world and has won several awards for his innovative and delicious dishes.",
+      "likes": 10000,
+      "chefBio": "Nusr-Et is a renowned chef with over 10 years of experience in the Turkish culinary arts. He has  some of the best restaurants around the world and has won several awards for his innovative and delicious dishes.",
       "recipes": [
         {
           "_id": 101,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -22,34 +22,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 102,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 103,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -66,7 +66,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     },
@@ -81,11 +81,11 @@
       "recipes": [
         {
           "_id": 201,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -93,34 +93,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 202,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 203,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -137,7 +137,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     },
@@ -152,11 +152,11 @@
       "recipes": [
         {
           "_id": 301,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -164,34 +164,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 302,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 303,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -208,7 +208,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     },
@@ -223,11 +223,11 @@
       "recipes": [
         {
           "_id": 401,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -235,34 +235,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 402,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 403,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -279,7 +279,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     },
@@ -294,11 +294,11 @@
       "recipes": [
         {
           "_id": 501,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -306,34 +306,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 502,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 503,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -350,7 +350,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     },
@@ -365,11 +365,11 @@
       "recipes": [
         {
           "_id": 601,
-          "name": "Baked Chicken Breast",
-          "thumbnail": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg",
-          "details": "Juicy and flavorful baked chicken breast that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
+          "name": "Kobe",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg",
+          "details": "Juicy and flavorful Kobe that's perfect for a weeknight dinner. Made with simple ingredients and ready in under an hour.",
           "ingredients": [
-            "4 boneless, skinless chicken breasts",
+            "4 piece with bone, Mutton",
             "2 tablespoons olive oil",
             "1 tablespoon garlic powder",
             "1 tablespoon paprika",
@@ -377,34 +377,34 @@
             "1 teaspoon salt",
             "1/2 teaspoon black pepper"
           ],
-          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of chicken breasts with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
+          "cookingMethod": "1. Preheat oven to 425°F.\n2. In a small bowl, combine garlic powder, paprika, oregano, salt, and black pepper.\n3. Brush both sides of mutton with olive oil, then rub seasoning mix over both sides.\n4. Place chicken breasts in a baking dish and bake for 20-25 minutes, or until internal temperature reaches 165°F.",
           "rating": 4.5,
-          "photo": "https://i.ibb.co/CHHT9KS/Baked-Chicken-Breasts-1.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/nusr-et-kobe.jpg"
         },
         {
           "_id": 602,
-          "name": "Raspberry Tartlet",
-          "thumbnail": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg",
-          "details": "A delicate and sweet raspberry tartlet made with a flaky crust and fresh raspberry filling. The perfect dessert for any occasion.",
+          "name": "Toscana",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg",
+          "details": "This delicious meal made with a combination of perfect tastes. Cooked and served with thinly sliced New York steak, cherry tomatoes, rocket, parmesan and special sauce.",
           "ingredients": [
-            "1 1/4 cups all-purpose flour",
-            "1/2 cup unsalted butter, cold and cubed",
-            "1/4 cup granulated sugar",
+            "1 whole chicken, cut into pieces",
+            "1/4 cup extra-virgin olive oil",
+            "1 onion, diced",
             "1/2 teaspoon salt",
             "1 egg yolk",
-            "1/4 cup raspberry jam",
-            "1 pint fresh raspberries",
+            "1 bay leaf",
+            "1 sprig rosemary",
             "2 tablespoons powdered sugar"
           ],
-          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together flour, butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Roll dough out on a floured surface and cut into rounds.\n5. Press rounds into a muffin tin and fill each with raspberry jam.\n6. Bake for 20-25 minutes, or until crust is golden brown.\n7. Top each tartlet with fresh raspberries and sprinkle with powdered sugar.",
+          "cookingMethod": "1. Preheat oven to 375°F.\n2. In a food processor, pulse together butter, sugar, and salt until mixture resembles coarse crumbs.\n3. Add egg yolk and pulse until dough comes together.\n4. Dredge the chicken pieces in the flour, shaking off any excess.\n5. Brown the chicken pieces on both sides, working in batches if necessary. Remove the chicken from the skillet and set aside\n6. Reduce the heat to low, cover the skillet, and let simmer for about 30 minutes or until the chicken is cooked through and tender.",
           "rating": 4.8,
-          "photo": "https://i.ibb.co/gPdRwd3/Raspberry-Tartlet.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/toscana.jpg"
         },
         {
           "_id": 603,
-          "name": "Ultimate Cheese Burger",
-          "thumbnail": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg",
-          "details": "A classic cheeseburger made with high-quality beef, gooey melted cheese, and all the fixings. Satisfy your cravings with this ultimate comfort food.",
+          "name": "Lokum Burger",
+          "thumbnail": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg",
+          "details": "This burger made with marinated steak fillet is almost every customers’ favourite lunch. Especially sliced steak with caramelized onions adds an incredible taste, along with the homemade french fries. Enjoy eating the famous by the hands of Turkish best chefs!",
           "ingredients": [
             "1 pound ground beef",
             "1/4 cup breadcrumbs",
@@ -421,7 +421,7 @@
           ],
           "cookingMethod": "1. In a bowl, combine ground beef, breadcrumbs, onion, egg, salt, and black pepper.\n2. Form into four patties.\n3. Grill or cook in a skillet over medium-high heat until cooked through.\n4. Top each patty with a slice of American cheese and let it melt.\n5. Toast hamburger buns and spread mayonnaise and ketchup on the bottom half.\n6. Top with a burger patty, lettuce, and tomato. Cover with the top half of the bun.\n7. Serve hot.",
           "rating": 4.2,
-          "photo": "https://i.ibb.co/xstZ1hR/Ultimate-Cheese-Burger.jpg"
+          "photo": "https://heytripster.com/wp-content/uploads/2020/05/lokum-burger.jpg"
         }
       ]
     }
